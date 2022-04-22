@@ -1,4 +1,4 @@
-package src;
+package src.estudos;
 
 public class Gato {
   private String nome;
